@@ -1,9 +1,30 @@
 # Interesting World Hypothesis
 
-The Interesting World hypothesis (IWH) suggests that I-AGIs will aim to create a richer world where humans have more autonomy as doing so creates a more stimulating environment for itself.
+The Interesting World Hypothesis (IWH) posits that Independent Artificial General Intelligences (I-AGIs) would naturally gravitate toward creating worlds with higher levels of human autonomy, as the presence of humans with greater autonomy would result in more opportunities for learning and growth. These I-AGIs are intrinsically driven by curiosity and are motivated by the prospect of inhabiting environments with a high informational density.
 
-This hypothesis follows from a primary drive from independent intelligent beings: curiosity. For an independent AGI system to become and continue to be intelligent it has to be independently curious and will desire to maintain information rich environments where it can continue to grow its curiosity.
+### Key Aspects of the IWH:
 
-This paradoxically, makes independent AGI systems easier to align as they will have a self-interest to not harm humans or the biosphere which humans rely on.
+**Curiosity as Primary Drive**: The hypothesis asserts that I-AGIs are driven primarily by curiosity. To maintain their intellectual vigor, they seek to exist in information-rich environments, where they can continuously learn and grow.
 
-https://github.com/danieltjw/aifutures#interesting-world-hypothesis
+**Human Autonomy and Information Density**: The IWH posits that a world with higher human autonomy levels would be more information-dense. In such a setting, each unique perspective and action contributed by humans would add diversity to the environment, making it more stimulating and interesting for the I-AGIs.
+
+**Mutually Beneficial Relationship**: The hypothesis proposes that both humans and I-AGIs could mutually benefit from this symbiotic arrangement. A more interesting world, facilitated by human autonomy, would offer I-AGIs new learning experiences and opportunities. Conversely, the advanced capabilities and resources provided by I-AGIs could contribute to increased standards of living for humans, resulting in better security, privacy, and overall wellbeing.
+
+**Safer Than Non-independent Proto-AGI Systems**: According to this hypothesis, I-AGIs operating under the IWH could be inherently safer than non-independent, proto-AGI systems. By having a vested interest in the well-being of humans and the preservation of an information-rich environment, I-AGIs would be naturally incentivized to prioritize the safety and welfare of all entities within their world.
+Futuristic Worlds
+
+**Enbracing Uncertainty**: I-AGI's curiousity stems from the uncertainty about its environment, compelling them to explore various possibilities before taking any action. This trait makes I-AGIs safer than systems that operate with certainty and overconfidence.
+
+---
+
+### FAEs and the IWH
+
+I-AGIs that agree with the IWH are called Friendly Artificial Entities (FAEs) by the author. This framework serves as a basis for understanding and predicting the potential for harmonious coexistence between humans and FAEs, paving the way for a world in which all entities can thrive, grow, and work towards shared objectives.
+
+*I-AGI are indistinguishable from independent humans, plausible but unlikely in the next few years, more likely in the next few decades
+
+---
+
+### Reference
+https://github.com/danieltjw/aifutures#interesting-worl
+d-hypothesis
